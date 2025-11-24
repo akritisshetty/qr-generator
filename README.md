@@ -33,8 +33,8 @@ This is a simple, browser-based QR Code Generator that lets users create fully c
 
 4. **Exporting as PNG**  
     A helper function converts the QR’s image into a PNG data URL.  
-        - Download creates a temporary anchor element to save the file.  
-        - Copy converts the image into a blob and sends it to the Clipboard API.
+    Download creates a temporary anchor element to save the file.  
+    Copy converts the image into a blob and sends it to the Clipboard API.
 
 5. **Regenerate and Clear Controls**  
     Regenerate rebuilds the QR code using the current settings.  
