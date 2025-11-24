@@ -46,6 +46,8 @@ async function getPNG() {
   const img = qrcodeContainer.querySelector("img");
 
   if (canvas) return canvas.toDataURL("image/png");
+ Shetty
+
 
   if (img) {
     const temp = document.createElement("canvas");
