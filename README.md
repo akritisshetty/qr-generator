@@ -14,11 +14,11 @@ This is a simple, browser-based QR Code Generator that lets users create fully c
 ### Project Structure
 
 ```
-/qr-generator<br>
+/qr-generator
 │
-├── index.html<br>
-├── style.css<br>
-└── script.js<br>
+├── index.html
+├── style.css
+└── script.js
 ```
 
 ### How it Works
