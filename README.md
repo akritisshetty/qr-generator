@@ -13,12 +13,13 @@ This is a simple, browser-based QR Code Generator that lets users create fully c
 
 
 ### Project Structure
-
+```
 /qr-generator<br>
 │<br>
 ├── index.html<br>
 ├── style.css<br>
 └── script.js<br>
+```
 
 ### How it Works
 **1. Handling User Input**<br>
